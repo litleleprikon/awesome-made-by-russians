@@ -345,6 +345,9 @@
 
 - **[Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)** by [Alexander Makarov](https://github.com/samdark)<br>
   An open source book full of tips and tricks about Yii 2.0 PHP framework.
+  
+- **[Moira](https://github.com/moira-alert/moira)** by [SKB Kontur](https://github.com/skbkontur)<br>
+  A real-time alerting tool, based on Graphite data.
 
 - The place for your next great pet project!
   
